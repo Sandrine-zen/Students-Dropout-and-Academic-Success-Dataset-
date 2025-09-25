@@ -19,7 +19,7 @@ For this project, I focused on three specific columns:
 
 ##  Steps Followed
 1. Import libraries → pandas, numpy, matplotlib, seaborn, scikit-learn  
-2. Load dataset → with `sep=";"` because the file uses semicolons  
+2. Load dataset   
 3. Explore data → checked shape, info, describe, and missing values  
 4. Clean column names → converted to lowercase and replaced spaces with underscores  
 5. Handle missing values → removed rows with `.dropna()`  
