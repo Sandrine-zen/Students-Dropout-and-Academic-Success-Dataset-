@@ -4,10 +4,10 @@ The dataset used in this project is sourced from the Kaggle Dataset Repository:
 It contains student records and features, including demographic information, academic performance, and enrollment details.  
 The target column shows whether a student dropped out, graduated, or remained enrolled.  
 
-For this lab, I focused on three specific columns:  
+For this project, I focused on three specific columns:  
 - `curricular_units_1st_sem_grade` → average grade from the first semester  
 - `curricular_units_2nd_sem_approved` → number of approved units in the second semester  
-- `curricular_units_2nd_sem_grade` → average grade in the second semester (this is the target variable)  
+- `curricular_units_2nd_sem_grade` → average grade in the second semester, the target variable. 
 
 ---
 
