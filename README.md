@@ -1,8 +1,8 @@
 The dataset used in this project is sourced from the Kaggle Dataset Repository:  
 [Students Dropout and Academic Success](https://www.kaggle.com/datasets/mahwiz/students-dropout-and-academic-success-dataset).  
 
-It contains student records** and features, including demographic information, academic performance, and enrollment details.  
-The target column shows whether a student dropped out, graduated, or remained enrolled**.  
+It contains student records and features, including demographic information, academic performance, and enrollment details.  
+The target column shows whether a student dropped out, graduated, or remained enrolled.  
 
 For this lab, I focused on three specific columns:  
 - `curricular_units_1st_sem_grade` → average grade from the first semester  
@@ -46,4 +46,4 @@ This project helped me practice:
 - Cleaning and preparing a dataset for analysis  
 - Building a smaller DataFrame with selected features  
 - Training and evaluating a regression model  
-- Interpreting model results with metrics and plots  
+ 
