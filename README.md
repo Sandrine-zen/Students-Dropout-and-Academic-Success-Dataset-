@@ -13,7 +13,7 @@ For this lab, I focused on three specific columns:
 
 ##  Files in this Repo
 - `Students_Dropout_Corrected.ipynb` → Jupyter notebook with all steps (loading data, cleaning, analysis, regression, evaluation).  
-- `students_regression_subset.csv` → A smaller version of the dataset used for the regression task (optional).  
+- `students_regression_subset.csv` → A smaller version of the dataset used for the regression task.  
 
 ---
 
