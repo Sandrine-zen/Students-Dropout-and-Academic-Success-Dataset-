@@ -1,4 +1,4 @@
-The dataset used in this lab is sourced from the Kaggle Dataset Repository**:  
+The dataset used in this project is sourced from the Kaggle Dataset Repository**:  
 [Students Dropout and Academic Success](https://www.kaggle.com/datasets/mahwiz/students-dropout-and-academic-success-dataset).  
 
 It contains student records** and features, including demographic information, academic performance, and enrollment details.  
